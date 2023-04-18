@@ -10,7 +10,7 @@ permalink: pretty
 
 # Aux links for the upper right navigation
 aux_links:
-  "monero.com":
+  "Monero.com":
     - "https://monero.com"
 
 # Makes Aux links open in a new tab. Default is false
@@ -18,8 +18,10 @@ aux_links_new_tab: false
 
 # External navigation links
 nav_external_links:
-  - title: monero.com
+  - title: Monero.com
     url: https://monero.com
+  - title: Cake Wallet Guides
+    url: https://guides.cakewallet.com
 
 # Enable or disable heading anchors
 heading_anchors: true

@@ -1,7 +1,7 @@
 
-# Cake Wallet Guides
+# Monero.com Guides
 
-[Read the guides](https://guides.cakewallet.com)!
+[Read the guides](https://guides.monero.com)!
 
 Forked from Just the Docs. MIT licensed.
 

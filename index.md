@@ -14,3 +14,5 @@ Thanks for checking out the Monero.com guides! ❤️
 ## General info
 
 Monero is the gold standard in private digital payments.
+
+These guides are brand new, and content is in the progress of being added.
