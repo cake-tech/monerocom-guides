@@ -3,7 +3,7 @@ title: "How to sync a Monero (XMR) wallet faster"
 parent: Tutorials
 ---
 
-# How to sync your Monero (XMR) wallet faster
+# How to sync a Monero (XMR) wallet faster
 
 We get it, syncing your Monero wallet sucks. One unfortunate consequence of Monero's privacy protections is that your wallet needs to iterate through the blockchain activity to see if any transactions are associated with it. Fortunately, there are a few tips and tricks that will help you sync your Monero wallet faster so that you can spend funds when you need to!
 
