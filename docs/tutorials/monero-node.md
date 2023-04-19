@@ -112,3 +112,7 @@ sudo apt-get update && sudo apt-get upgrade -y
 ## Credits
 
 Thanks to Seth for Privacy for their [node guide](https://sethforprivacy.com/guides/run-a-monero-node/) and their [Docker image](https://hub.docker.com/r/sethsimmons/simple-monerod).
+
+---
+
+Not ready to run your own Monero node yet? Check out a list of popular Monero remote nodes at [nodes.monero.com](https://nodes.monero.com).
