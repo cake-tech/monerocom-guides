@@ -1,5 +1,5 @@
 ---
-title: "How to sync your Monero (XMR) wallet faster"
+title: "How to sync a Monero (XMR) wallet faster"
 parent: Tutorials
 ---
 

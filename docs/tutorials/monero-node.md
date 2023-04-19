@@ -1,9 +1,9 @@
 ---
-title: "Running your own Monero node"
+title: "How to run a Monero (XMR) node"
 parent: Tutorials
 ---
 
-# Running your own Monero node
+# How to run a Monero (XMR) node
 
 We strongly recommend running your own Monero node! Here is a simple guide for running a Monero node with Ubuntu.
 
