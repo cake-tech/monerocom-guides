@@ -1,5 +1,5 @@
 ﻿---
-title: "How to create a monero paper wallet"
+title: "How to create a Monero paper wallet"
 parent: Tutorials
 ---
 
