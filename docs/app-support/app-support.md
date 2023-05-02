@@ -4,7 +4,7 @@ has_children: true
 nav_order: 
 ---
 
-# App support
+# Monero app support
 
 There are many applications and Monero wallets out there! Here is an overview of the most popular Monero wallets, and how to get support for them.
 
