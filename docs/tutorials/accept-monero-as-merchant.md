@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to accept Monero (XMR) as a merchant" 
 parent: Tutorials
 --- 
