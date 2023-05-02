@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to buy Monero (XMR)"
 parent: Tutorials
 ---
