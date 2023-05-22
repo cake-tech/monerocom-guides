@@ -47,7 +47,7 @@ Dandelion++ isn't as comprehensive as using Tor or i2p. The Monero node software
 
 **Monero does *not* provide any network protections by default between a wallet and the selected Monero node** (the first connection).
 
-## Benefits of using a VPN with Monero (XMR)**
+## Benefits of using a VPN with Monero (XMR)
 
 The most obvious reason to use a VPN with Monero is to better protect your network privacy (as a wallet user) from a Monero remote node. This is only useful if you are using someone else's node. If you are running your own node, you don't need to protect the connection between your own device and your own node.
 
