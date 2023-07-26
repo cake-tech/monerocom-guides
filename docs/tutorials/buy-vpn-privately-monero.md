@@ -11,7 +11,7 @@ Unfortunately, many people make the huge mistake of paying for their VPN using a
 
 The simplest way to purchase a VPN privately is to use [Monero (XMR)](https://monero.com), the gold standard in private digital payments. Luckily, there are several excellent VPN options that directly accept Monero as a payment method.
 
-Ulikely Bitcoin payments, Monero payments hide the sender, receiver, and amount. If you use a [non-custodial wallet](https://monero.com/wallets) to pay for your VPN with Monero, it offers similar privacy benefits as paying with cash.
+Ulike Bitcoin payments, Monero payments hide the sender, receiver, and amount. If you use a [non-custodial wallet](https://monero.com/wallets) to pay for your VPN with Monero, it offers similar privacy benefits as paying with cash.
 
 {: .friendly}
 Need to buy your first Monero (XMR)? Check out [our guide on how to buy Monero (XMR)](https://monero.com/trade)!
