@@ -15,13 +15,21 @@ The Monero protocol and [Monero wallets](https://monero.com/wallets) are updated
 
 Network connections can sometimes be finnicky, especially if you are using Tor, a VPN, or an ISP that is prone to throttling. Try turning off Tor and/or your VPN if you have it on, and try a different connection if possible. If you have a very slow and unreliable connection, your wallet will not be able to sync quickly.
 
+## Use a modern wallet with background syncing
+
+Modern [Monero wallets](https://monero.com/wallets) such as [Cake Wallet](https://cakewallet.com) support background syncing. Try switching to Cake Wallet or another wallet with background syncing. After the initial sync after restoring a wallet (which will still be long), you should spend a lot less time syncing after opening your wallets.
+
+Monero background syncing has [some limitations](https://guides.cakewallet.com/docs/monero/#background-syncing), but it's a great option for most people. You can change to the `Aggressive` background sync setting to further reduce sync times.
+
 ## Periodically sync your wallet
 
-Long sync times usually occur if you have not used your Monero wallet in a while. We recommend opening your Monero wallet at least once a month to let it sync. That way, you are never syncing for more than a few moments.
+Long sync times usually occur if you have not used your Monero wallet in a while. We recommend opening your Monero wallet at least once a month to let it sync. That way, you are never syncing for more than a few moments. This is especially the case for [Monero wallets](https://monero.com/wallets) that do not support background syncing.
 
 ## Set a restore height
 
 If you are waiting a long while for your wallet to sync after a restore, you should consider cancelling the restore and starting again with a specified restore height. A restore height allows your wallet to skip over all the Monero transaction records that occured before you made your wallet. This can sometimes save you hours of time! Some wallets such as Cake Wallet allow you to conveniently add a restore date, which will then automatically pick the correct restore height for you.
+
+[Cake Wallet](https://cakewallet.com) automatically encodes a restore height into the restore QR codes generated in-app, which saves you a lot of time.
 
 ## Run your own node locally
 
