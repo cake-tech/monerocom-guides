@@ -9,7 +9,7 @@ It's extremely simple to buy Monero (XMR)! [Cake Wallet](https://cakewallet.com)
 
 ## Buying in-app with Cake Wallet
 
-Our top recommend method for buying Monero (XMR) is through the [Cake Wallet app](https://cakewallet.com). Cake Wallet is free, open-source and non-custodial. It is available for Apple ([iOS](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542) and [MacOS](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542)), Android ([Google Play](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet) and [APK](https://github.com/cake-tech/cake_wallet/releases)), and [Linux](https://github.com/cake-tech/cake_wallet/releases).
+Our top recommend method for buying Monero (XMR) is through the [Cake Wallet app](https://cakewallet.com). Cake Wallet is free, open-source and non-custodial. It is available for Apple ([iOS](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542) and [MacOS](https://apps.apple.com/us/app/cake-wallet-for-xmr-monero/id1334702542)), Android ([Google Play](https://play.google.com/store/apps/details?id=com.cakewallet.cake_wallet&referrer=utm_source%3Dguides.monero.com%26utm_medium%3Dwebsite) and [APK](https://github.com/cake-tech/cake_wallet/releases)), and [Linux](https://github.com/cake-tech/cake_wallet/releases).
 
 Follow these steps to get started:
 
